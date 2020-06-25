@@ -18,7 +18,13 @@ The Oracle IAM Suite 12c R2 PS4 can be deployed using the Oracle IAM standard in
 
 ![](images/idm12cps4-standard-topology.png)
 
-****Figure 1. Standard Topology for Oracle Identity and Access Management****
+Figure 1. Standard Topology for Oracle Identity and Access Management
+
+The [Figure 2](#image-01) depicts the domains that make up the SecureOracle v8.0 environment. The OIG and OAM components can be started individually or all together, and with further configuration these can be integrated following the official documentation [integrating OIG and OAM](https://docs.oracle.com/en/middleware/idm/suite/12.2.1.4/integrate.html) available online.
+
+![](images/img-sodomains.png)
+
+Figure 2. SecureOracle - Demonstration Platform for IAM Suite 12c R2 PS4
 
 ## What is an Autonomous Database?
 Oracle Autonomous Data Warehouse and Oracle Autonomous Transaction Processing are built around the market leading Oracle database and come with fully automated data warehouse and transaction processing specific features that deliver outstanding query performance. This environment is delivered as a fully managed cloud service running on optimized high-end Oracle hardware systems.  You don’t need to spend time thinking about how you should store your data, when or how to back it up or how to tune your queries. We take care of everything for you.
