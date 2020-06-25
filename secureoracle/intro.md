@@ -26,14 +26,7 @@ The [Figure 2](#image-01) depicts the domains that make up the SecureOracle v8.0
 
 Figure 2. SecureOracle - Demonstration Platform for IAM Suite 12c R2 PS4
 
-## What is an Autonomous Database?
-Oracle Autonomous Data Warehouse and Oracle Autonomous Transaction Processing are built around the market leading Oracle database and come with fully automated data warehouse and transaction processing specific features that deliver outstanding query performance. This environment is delivered as a fully managed cloud service running on optimized high-end Oracle hardware systems.  You don’t need to spend time thinking about how you should store your data, when or how to back it up or how to tune your queries. We take care of everything for you.
-
-Watch our short video that explains key features in Oracle's Autonomous Database:
-
-[](youtube:c-DUIePFKco)
-
-Oracle’s Autonomous Database is the perfect quick-start service for fast data loading and sophisticated data reporting and analysis. Oracle manages everything for you so you can focus on your data.
+By default all non-SSL ports are used to demonstrate the different use cases, however you can enable SSL ports as needed to meet specific demo requirements. Please refer to the product documentation for details in how to enable SSL.
 
 ## Workshop Objectives
 - Get comfortable with Oracle's public cloud services
