@@ -1,8 +1,16 @@
-# Workshop Introduction and Overview                                    
+# SecureOracle Workshop Overview                                    
 
-The labs in this workshop walk you through all the steps to get started using the **Oracle Autonomous Database on Shared Infrastructure (ADB-S)**. You will provision a new ADB instance, load data from the object store and troubleshoot data loads, query external data residing on the object store, manage an ADB instance, and scale an ADB instance.
+The SecureOracle workshop represents a demonstration platform for the **Oracle IAM Suite 12c R2 PS4 (12.2.1.4.0)** which includes the following Oracle components:
 
-With Oracle Autonomous Database we make it quick and easy for you to create a secure, fully managed database service in the Oracle Cloud which allows you to start loading and analyzing your data immediately.
+* Identity Governance:
+	* OIG 12c, SOA Suite 12c, BI Publisher 12c, OUD 12c, DB 19c and 12c Connectors
+* Access Management:
+	* OAM 12c, OHS/WebGate 12c, OUD 12c and DB 19c
+* Development Tools and Assets:
+	* [JDeveloper 12c with SOA Extensions](http://www.oracle.com/technetwork/middleware/soasuite/downloads/index.html), [SQL Developer 19.2.1](https://www.oracle.com/database/technologies/appdev/sql-developer.html), [Apache Studio 2](https://directory.apache.org/studio/) and [Oracle APEX 19.2](https://apex.oracle.com/en/)
+	* Sample My HR and My IGA Applications and Demo Scenarios
+
+**Note:** OIM and OIG are interchangeable terms and refer to the same product Oracle Identity Manager or Oracle Identity Governance.
 
 ## What is an Autonomous Database?
 Oracle Autonomous Data Warehouse and Oracle Autonomous Transaction Processing are built around the market leading Oracle database and come with fully automated data warehouse and transaction processing specific features that deliver outstanding query performance. This environment is delivered as a fully managed cloud service running on optimized high-end Oracle hardware systems.  You don’t need to spend time thinking about how you should store your data, when or how to back it up or how to tune your queries. We take care of everything for you.
