@@ -3,7 +3,7 @@
         {
             "title": "Introduction to SecureOracle Demo Environment",
             "description": "Introduction to SecureOracle Demonstration Environment",
-            "filename": "./intro.md"
+            "filename": "intro.md"
         },
         {
             "title": "Lab 1: Login to Oracle Cloud",
@@ -13,7 +13,7 @@
         {
             "title": "Lab 2: Getting Started",
             "description": "Getting Started with SecureOracle",
-            "filename": "./labs/getting-started.md"
+            "filename": "labs/getting-started.md"
         }
     ]
 }
