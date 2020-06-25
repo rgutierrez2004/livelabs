@@ -1,6 +1,11 @@
-# SecureOracle Workshop Overview                                    
+# Workshop Introduction and Overview                                    
 
-The SecureOracle workshop represents a demonstration platform for the **Oracle IAM Suite 12c R2 PS4 (12.2.1.4.0)** which includes the following Oracle components:
+The labs in this workshop walk you through all the steps to get started using the **Oracle IAM Suite 12c R2 PS4 (12.2.1.4.0)**. You will demonstrate employee lifecycle management, identity certifications, hybrid cases for access managements, RESTful APIs for identity governance and OAuth management.
+
+The Oracle IAM Suite provides a unified, integrated security platform designed to manage user lifecycle and provide secure access across the enterprise resources, both within and beyond the firewall and into the cloud.
+
+## What is SecureOracle?
+SecureOracle represents a demonstration platform for the **Oracle IAM Suite 12c R2 PS4 (12.2.1.4.0)** which includes the following Oracle components:
 
 * Identity Governance:
 	* OIG 12c, SOA Suite 12c, BI Publisher 12c, OUD 12c, DB 19c and 12c Connectors
@@ -26,7 +31,7 @@ The [Figure 2](#image-01) depicts the domains that make up the SecureOracle v8.0
 
 Figure 2. SecureOracle - Demonstration Platform for IAM Suite 12c R2 PS4
 
-By default all non-SSL ports are used to demonstrate the different use cases, however you can enable SSL ports as needed to meet specific demo requirements. Please refer to the product documentation for details in how to enable SSL.
+By default all non-SSL ports are used to demonstrate the different use cases, however you can enable SSL ports as needed to meet specific demo requirements. Please refer to the product documentation for details in how to enable SSL. 
 
 ## Workshop Objectives
 - Get comfortable with Oracle's public cloud services
