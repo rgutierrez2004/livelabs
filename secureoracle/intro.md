@@ -1,6 +1,6 @@
 # Workshop Introduction and Overview                                    
 
-The labs in this workshop walk you through all the steps to get started using the **Oracle IAM Suite 12c R2 PS4 (12.2.1.4.0)**. You will demonstrate employee lifecycle management, identity certifications, hybrid cases for access managements, RESTful APIs for identity governance and OAuth management.
+The labs in this workshop walk you through all the steps to get started using the **Oracle IAM Suite 12c R2 PS4 (12.2.1.4.0)**. You will demonstrate employee lifecycle management, identity certifications, hybrid cases for access managements, RESTful APIs for identity governance, OAuth client and token management.
 
 The Oracle IAM Suite provides a unified, integrated security platform designed to manage user lifecycle and provide secure access across the enterprise resources, both within and beyond the firewall and into the cloud.
 
