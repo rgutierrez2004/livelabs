@@ -3,7 +3,7 @@
         {
             "title": "Introduction to SecureOracle Demo Environment",
             "description": "Introduction to SecureOracle Demonstration Environment",
-            "filename": "intro.md"
+            "filename": "https://raw.githubusercontent.com/rgutierrez2004/livelabs/master/secureoracle/intro.md"
         },
         {
             "title": "Lab 1: Login to Oracle Cloud",
