@@ -1,4 +1,4 @@
-# SecureOracle Workshop Overview                                    
+# SecureOracle Workshop Overview                                 
 
 The SecureOracle workshop represents a demonstration platform for the **Oracle IAM Suite 12c R2 PS4 (12.2.1.4.0)** which includes the following Oracle components:
 
@@ -64,4 +64,3 @@ Use these links to get more information about Oracle Identity and Access Managem
 - **Last Updated By/Date** - Ricardo Gutierrez, June 2020
 
 See an issue?  Please open up a request [here](https://github.com/oracle/learning-library/issues).  Please include the workshop name and lab in your request.
-
