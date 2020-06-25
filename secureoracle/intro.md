@@ -18,7 +18,6 @@ The Oracle IAM Suite 12c R2 PS4 can be deployed using the Oracle IAM standard in
 
 <a name="image-01"></a>
 ![](images/idm12cps4-standard-topology.png)
-<p align="center">Figure 1. Standard Topology for Oracle Identity and Access Management</p>
 
 ## What is an Autonomous Database?
 Oracle Autonomous Data Warehouse and Oracle Autonomous Transaction Processing are built around the market leading Oracle database and come with fully automated data warehouse and transaction processing specific features that deliver outstanding query performance. This environment is delivered as a fully managed cloud service running on optimized high-end Oracle hardware systems.  You don’t need to spend time thinking about how you should store your data, when or how to back it up or how to tune your queries. We take care of everything for you.
