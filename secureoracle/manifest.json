@@ -1,0 +1,19 @@
+{
+    "tutorials": [
+        {
+            "title": "Introduction to SecureOracle Demo Environment",
+            "description": "Introduction to SecureOracle Demonstration Environment",
+            "filename": "./intro.md"
+        },
+        {
+            "title": "Lab 1: Login to Oracle Cloud",
+            "description": "Login to Oracle Cloud",
+            "filename": "https://raw.githubusercontent.com/oracle/learning-library/master/common/labs/cloud-login/cloud-login-livelabs.md"
+        },
+        {
+            "title": "Lab 2: Getting Started",
+            "description": "Getting Started with SecureOracle",
+            "filename": "./labs/getting-started.md"
+        }
+    ]
+}
