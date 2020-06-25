@@ -30,19 +30,13 @@ By default all non-SSL ports are used to demonstrate the different use cases, ho
 
 ## Workshop Objectives
 - Get comfortable with Oracle's public cloud services
-- Provision a new Autonomous Database instance on Shared Infrastructure
-- Run sample queries against the sample data sets
-- Load data from the object store
-- Query external data from the object store
-- Scale an ADB instance
+- Start the SecureOracle demonstration environment
+- Walkthrough Oracle's IAM Suite 12c R2 PS4 (12.2.1.4.0) components
+- Access the different administrative consoles and sample applications
 
 ## Lab Breakdown
-- **Lab 1:** Log in to Oracle Cloud and access the Oracle Autonomous Data Warehouse console.
-- **Lab 2:** Provision your first Autonomous Data Warehouse.
-- **Lab 3:** Explore the provided sample data sets that come with your Autonomous Database.
-- **Lab 4:** Upload files to the Oracle Cloud Infrastructure (OCI) Object Storage, create sample tables, load data into them from files on the OCI Object Storage, and troubleshoot data loads with errors.
-- **Lab 5:** Query files on the Oracle Cloud Infrastructure Object Storage (OCI) directly without loading them to your database.
-- **Lab 6:** Scale up your Oracle Autonomous Database service to have more CPUs.
+- **Lab 1:** Log in to Oracle Cloud and access the SecureOracle environment.
+- **Lab 2:** Getting Started with SecureOracle.
 
 **After reading the following workshop prerequisites, get started by clicking Lab 1 in the Contents menu on the right.**
 
@@ -50,28 +44,23 @@ By default all non-SSL ports are used to demonstrate the different use cases, ho
 This workshop requires an Oracle Cloud account. As a result of registering for LiveLabs, you will receive an email with instructions for accessing your account.
 
 ###Getting Help During This Workshop
-If you have a question during this workshop then use the <a href="https://cloudcustomerconnect.oracle.com/resources/32a53f8587/summary" target="\_blank">**Autonomous Data Warehouse Forum**</a> on **Cloud Customer Connect** to post questions, connect with experts, and share your thoughts and ideas about Oracle Autonomous Data Warehouse.
+If you have a question during this workshop then use the <a href="https://cloudcustomerconnect.oracle.com/resources/d9b657b850/summary" target="\_blank">**Identity Forum**</a> on **Cloud Customer Connect** to post questions, connect with experts, and share your thoughts and ideas about Oracle Identity products.
 
 Are you are completely new to the **Cloud Customer Connect**</a> forums? Visit our <a href="https://cloudcustomerconnect.oracle.com/pages/1f00b02b84" target="\_blank">**Getting Started forum page**</a> to learn how to best leverage community resources.
 
 **You are all set; let's begin! Click Lab 1 in the Contents menu on the right.**
 
-## Want to Learn More About Autonomous Database?
+## Want to Learn More About Identity and Access Management?
 
-Use these links to get more information about Oracle Autonomous Database:
+Use these links to get more information about Oracle Identity and Access Management:
 
-- <a href="https://www.oracle.com/database/autonomous-database.html" target="\_blank">Oracle Autonomous Database website</a>
-- <a href="https://www.oracle.com/database/adw-cloud.html" target="\_blank">Oracle Autonomous Data Warehouse website</a>
-- <a href="https://www.oracle.com/database/atp-cloud.html" target="\_blank">Oracle Autonomous Transaction Processing website</a>
-- <a href="http://www.oracle.com/us/products/database/autonomous-dw-cloud-ipaper-3938921.pdf" target="\_blank">Oracle Autonomous Data Warehouse ipaper</a>
-- <a href="https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/index.html" target="\_blank">Oracle Autonomous Data Warehouse Documentation</a>
-- <a href="https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/videos.html" target="\_blank">Autonomous Data Warehouse Videos</a>
-- <a href="https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/tutorials.html" target="\_blank">Additional Autonomous Data Warehouse Tutorials</a>
+- <a href="https://docs.oracle.com/en/middleware/idm/suite/12.2.1.4/index.html" target="\_blank">Oracle Identity Management website</a>
+- <a href="https://docs.oracle.com/en/middleware/idm/identity-governance/12.2.1.4/index.html" target="\_blank">Oracle Identity Governance Documentation</a>
+- <a href="https://docs.oracle.com/en/middleware/idm/access-manager/12.2.1.4/books.html" target="\_blank">Oracle Access Management Documentation</a>
 
 ## Acknowledgements
 
-- **Author** - Nilay Panchal, ADB Product Management
-- **Adapted for Cloud by** - Richard Green, Principal Developer, Database User Assistance
-- **Last Updated By/Date** - Richard Green, April 2020
+- **Author** - Ricardo Gutierrez, Solution Engineering - Security and Management
+- **Last Updated By/Date** - Ricardo Gutierrez, June 2020
 
 See an issue?  Please open up a request [here](https://github.com/oracle/learning-library/issues).  Please include the workshop name and lab in your request.
