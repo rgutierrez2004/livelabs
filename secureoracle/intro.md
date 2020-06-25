@@ -1,4 +1,4 @@
-# Workshop Introduction and Overview                                    
+# SecureOracle Workshop Overview                                    
 
 The SecureOracle workshop represents a demonstration platform for the **Oracle IAM Suite 12c R2 PS4 (12.2.1.4.0)** which includes the following Oracle components:
 
@@ -17,13 +17,13 @@ SecureOracle v8.0 can be combined with Oracle Identity Cloud Service (IDCS) to s
 The Oracle IAM Suite 12c R2 PS4 can be deployed using the Oracle IAM standard installation topology which is flexible and can be use as a starting point in production environments. The [Figure 1](#image-01) depicts a standard WebLogic Server domain that contains an Administration Server and one or more clusters containing one or more Managed Servers.
 
 <a name="image-01"></a>
-<p align="center"><img src="https://github.com/rgutierrez2004/lifelabs/blob/master/secureoracle/images/idm12cps4-standard-topology.png" /></p>
+<p align="center"><img src="https://github.com/rgutierrez2004/livelabs/blob/master/secureoracle/images/idm12cps4-standard-topology.png" /></p>
 <p align="center">Figure 1. Standard Topology for Oracle Identity and Access Management**</p>
 
 The [Figure 2](#image-01) depicts the domains that make up the SecureOracle v8.0 environment. The OIG and OAM components can be started individually or all together, and with further configuration these can be integrated following the official documentation [integrating OIG and OAM](https://docs.oracle.com/en/middleware/idm/suite/12.2.1.4/integrate.html) available online.
 
 <a name="image-02"></a>
-<p align="center"><img src="https://github.com/rgutierrez2004/lifelabs/blob/master/secureoracle/images/img-sodomains.png" /></p>
+<p align="center"><img src="https://github.com/rgutierrez2004/livelabs/blob/master/secureoracle/images/img-sodomains.png" /></p>
 <p align="center">Figure 2. SecureOracle - Demonstration Platform for IAM Suite 12c R2 PS4</p>
 
 By default all non-SSL ports are used to demonstrate the different use cases, however you can enable SSL ports as needed to meet specific demo requirements. Please refer to the product documentation for details in how to enable SSL.
